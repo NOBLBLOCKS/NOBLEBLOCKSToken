@@ -5,27 +5,27 @@
 
 <h3>Contract Features</h3>
 <p><strong>Token Name: NOBLEBLOCKS</strong><br>
-Symbol: NOBL<br>
-Decimals: 18<br>
-Technology: Upgradeable ERC20 Token on the Ethereum Blockchain<br>
-Total Supply: 1 Billion NOBL Tokens</p>
+<strong>Symbol:</strong> NOBL<br>
+<strong>Decimals:</strong> 18<br>
+<strong>Technology:</strong> Upgradeable ERC20 Token on the Ethereum Blockchain<br>
+<strong>Total Supply:</strong> 1 Billion NOBL Tokens</p>
 
 <h4>Key Functionalities:</h4>
 <ul>
-  <li>Upgradeability: Ensures the token can adapt and evolve over time.</li>
-  <li>Standard ERC20 Transfers: Enables users to send and receive NOBL tokens seamlessly.</li>
-  <li>Fee Structure: Incorporates a fee mechanism for transactions to support the platform's sustainability.</li>
+  <li><strong>Upgradeability:</strong> Ensures the token can adapt and evolve over time.</li>
+  <li><strong>Standard ERC20 Transfers:</strong> Enables users to send and receive NOBL tokens seamlessly.</li>
+  <li><strong>Fee Structure:</strong> Incorporates a fee mechanism for transactions to support the platform's sustainability.</li>
 </ul>
 
 <h4>Special Features:</h4>
 <ul>
-  <li>Exclusions from Fees: Certain addresses, such as the owner and development wallets, are exempt from transaction fees.</li>
-  <li>Adjustable Fee System: Provides the flexibility to modify fees related to liquidity, administration, and funding according to the needs of the ecosystem.</li>
+  <li><strong>Exclusions from Fees:</strong> Certain addresses, such as the owner and development wallets, are exempt from transaction fees.</li>
+  <li><strong>Adjustable Fee System:</strong> Provides the flexibility to modify fees related to liquidity, administration, and funding according to the needs of the ecosystem.</li>
 </ul>
 
 <h3>Initial Setup</h3>
-<p>Development Wallet: Designated for development-related expenditures.<br>
-Fund Wallet: Allocated for funding activities and sustaining the ecosystem.</p>
+<p><strong>Development Wallet:</strong> Designated for development-related expenditures.<br>
+<strong>Fund Wallet:</strong> Allocated for funding activities and sustaining the ecosystem.</p>
 
 <h3>Getting Started</h3>
 <p>To work with the NOBLEBLOCKS token contract or integrate it into your project:</p>
